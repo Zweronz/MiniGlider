@@ -1,0 +1,56 @@
+<root>
+	<task id="A1" info="Fly 100 meters." value="100" golds="100"/>
+	<task id="A2" info="Fly 300 meters." value="300" golds="200"/>
+	<task id="A3" info="Fly 500 meters." value="500" golds="300"/>
+	<task id="A4" info="Fly 800 meters." value="800" golds="400"/>
+	<task id="A5" info="Fly 1,000 meters." value="1000" golds="500"/>
+	<task id="A6" info="Fly 1,500 meters." value="1500" golds="600"/>
+	<task id="A7" info="Fly 2,000 meters." value="2000" golds="700"/>
+	<task id="A8" info="Fly 3,000 meters." value="3000" golds="800"/>
+	<task id="A9" info="Fly 4,000 meters." value="4000" golds="850"/>
+	<task id="A10" info="Fly 5,000 meters." value="5000" golds="900"/>
+	<task id="A11" info="Fly 1,0000 meters." value="10000" golds="1000"/>
+	<task id="B1" info="Reach an altitude of 50 \nmeters." value="50" golds="100"/>
+	<task id="B2" info="Reach an altitude of 100 \nmeters." value="100" golds="200"/>
+	<task id="B3" info="Reach an altitude of 150 \nmeters." value="150" golds="300"/>
+	<task id="B4" info="Reach an altitude of 200 \nmeters." value="200" golds="400"/>
+	<task id="B5" info="Reach an altitude of 300 \nmeters." value="300" golds="500"/>
+	<task id="B6" info="Reach an altitude of 400 \nmeters." value="400" golds="600"/>
+	<task id="B7" info="Reach an altitude of 500 \nmeters." value="500" golds="700"/>
+	<task id="B8" info="Reach an altitude of 600 \nmeters." value="600" golds="800"/>
+	<task id="B9" info="Reach an altitude of 600 \nmeters." value="700" golds="850"/>
+	<task id="B10" info="Reach an altitude of 800 \nmeters." value="800" golds="900"/>
+	<task id="G1" info="Reach a speed of 80 m/s." value="5" golds="300"/>
+	<task id="C1" info="Earn 25 gold in a single flight." value="25" golds="150"/>
+	<task id="C2" info="Earn 50 gold in a single flight." value="50" golds="250"/>
+	<task id="C3" info="Earn 100 gold in a single flight." value="100" golds="350"/>
+	<task id="C4" info="Earn 200 gold in a single flight." value="200" golds="450"/>
+	<task id="C5" info="Earn 300 gold in a single flight." value="300" golds="550"/>
+	<task id="C6" info="Earn 400 gold in a single flight." value="400" golds="650"/>
+	<task id="C7" info="Earn 500 gold in a single flight." value="500" golds="750"/>
+	<task id="D1" info="Fly 100 straight meters at \nan altitude above 10 meters." value="100" golds="100"/>
+	<task id="D2" info="Fly 300 straight meters at \nan altitude above 10 meters." value="300" golds="200"/>
+	<task id="D3" info="Fly 500 straight meters at \nan altitude above 10 meters." value="500" golds="300"/>
+	<task id="D4" info="Fly 700 straight meters at \nan altitude above 10 meters." value="700" golds="400"/>
+	<task id="D5" info="Fly 1,000 straight meters at \nan altitude above 10 meters." value="1000" golds="500"/>
+	<task id="D6" info="Fly 2,000 straight meters at \nan altitude above 10 meters." value="2000" golds="600"/>
+	<task id="D7" info="Fly 3,000 straight meters at \nan altitude above 10 meters." value="3000" golds="700"/>
+	<task id="D8" info="Fly 4,000 straight meters at \nan altitude above 10 meters." value="4000" golds="800"/>
+	<task id="D9" info="Fly 5,000 straight meters at \nan altitude above 10 meters." value="5000" golds="900"/>
+	<task id="E1" info="Fly 100 meters after \nbouncing on the ground." value="100" golds="150"/>
+	<task id="E2" info="Fly 300 meters after \nbouncing on the ground." value="300" golds="250"/>
+	<task id="E3" info="Fly 500 meters after \nbouncing on the ground." value="500" golds="350"/>
+	<task id="E4" info="Fly 700 meters after \nbouncing on the ground." value="700" golds="450"/>
+	<task id="E5" info="Fly 1,000 meters after \nbouncing on the ground." value="1000" golds="550"/>
+	<task id="E6" info="Fly 2,000 meters after \nbouncing on the ground." value="2000" golds="650"/>
+	<task id="E7" info="Fly 3,000 meters after \nbouncing on the ground." value="3000" golds="750"/>
+	<task id="E8" info="Fly 4,000 meters after \nbouncing on the ground." value="4000" golds="850"/>
+	<task id="E9" info="Fly 5,000 meters after \nbouncing on the ground." value="5000" golds="950"/>
+	<task id="F1" info="Mash 5 zombies in a single flight." value="5" golds="150"/>
+	<task id="F2" info="Mash 10 zombies in a single flight." value="10" golds="250"/>
+	<task id="F3" info="Mash 20 zombies in a single flight." value="20" golds="350"/>
+	<task id="F4" info="Mash 30 zombies in a single flight." value="30" golds="450"/>
+	<task id="F5" info="Mash 50 zombies in a single flight." value="50" golds="550"/>
+	<task id="F6" info="Mash 70 zombies in a single flight." value="70" golds="650"/>
+	<task id="F7" info="Mash 100 zombies in a single flight." value="100" golds="750"/>
+</root>

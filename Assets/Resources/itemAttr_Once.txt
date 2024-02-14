@@ -1,0 +1,7 @@
+<root>
+	<attr name="Power Launch" picname="items_powershot" smallpic="itemonce_slingshot" price="800" info="Perform a powerful\n launch." value="2" />
+	<attr name="Leviosa Potion" picname="itmes_lightpoint" smallpic="itemonce_yaoshui" price="5000" info="Float through the air \nlike a feather." value="2" />
+	<attr name="Jet Fuel" picname="items_rocketx2" smallpic="itemonce_huojian" price="1500" info="Use your Jetpack twice \nin a single flight." value="2" />
+	<attr name="Backup Glider" picname="items_glidex2" smallpic="itemonce_huaxiang" price="1500" info="Use your Glider twice \nin a single flight." value="2" />
+</root>
+

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1938197391966138}
+  m_IsPrefabParent: 1
+--- !u!1 &1938197391966138
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4476978930646949}
+  - component: {fileID: 114459550760924847}
+  m_Layer: 0
+  m_Name: impact_springbed_mid_tintin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4476978930646949
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1938197391966138}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114459550760924847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1938197391966138}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28742a8575256a84ea2e9f5e440a052e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioEffectRefs:
+  - {fileID: 1344565063254016, guid: 765e3c4ae363c504dabddb62b7920490, type: 2}
+  - {fileID: 1185741319938702, guid: 8134301bf73822e4fac61d3c288da591, type: 2}
+  - {fileID: 1873901779439894, guid: e41bba9d3472e804d8c97ff29c6efd18, type: 2}
+  maxDelayTime: 1000
+  useDelayPlay: 1
+  delayTimeArray:
+  - 0
+  - 0.18754481
+  - 0.0797546

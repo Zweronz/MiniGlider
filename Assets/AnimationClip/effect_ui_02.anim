@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: effect_ui_02
+  m_Compressed: 0
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -0, y: -0, z: -0, w: -1}
+        inSlope: {x: 0, y: 0, z: -1.0469848, w: 0.018274782}
+        outSlope: {x: 0, y: 0, z: -1.0469848, w: 0.018274782}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0, y: -0, z: -0.34202012, w: -0.9396926}
+        inSlope: {x: 0, y: 0, z: -0.9838437, w: 0.35809013}
+        outSlope: {x: 0, y: 0, z: -0.9838437, w: 0.35809013}
+        tangentMode: 0
+      - time: 1.066667
+        value: {x: -0, y: -0, z: -0.8987942, w: -0.43837094}
+        inSlope: {x: 0, y: 0, z: -0.4589675, w: 0.94102395}
+        outSlope: {x: 0, y: 0, z: -0.4589675, w: 0.94102395}
+        tangentMode: 0
+      - time: 1.7999996
+        value: {x: -0, y: -0, z: -0.95105666, w: 0.3090166}
+        inSlope: {x: 0, y: 0, z: 0.3235364, w: 0.9957442}
+        outSlope: {x: 0, y: 0, z: 0.3235364, w: 0.9957442}
+        tangentMode: 0
+      - time: 2.5333323
+        value: {x: -0, y: -0, z: -0.46947262, w: 0.882947}
+        inSlope: {x: 0, y: 0, z: 0.9244314, w: 0.49152958}
+        outSlope: {x: 0, y: 0, z: 0.9244314, w: 0.49152958}
+        tangentMode: 0
+      - time: 2.9666653
+        value: {x: -0, y: -0, z: -0.03490112, w: 0.9993908}
+        inSlope: {x: 0, y: 0, z: 1.0463482, w: 0.03654027}
+        outSlope: {x: 0, y: 0, z: 1.0463482, w: 0.03654027}
+        tangentMode: 0
+      - time: 3
+        value: {x: -0, y: -0, z: 8.742278E-08, w: 1}
+        inSlope: {x: 0, y: 0, z: 1.0469922, w: 0.018275805}
+        outSlope: {x: 0, y: 0, z: 1.0469922, w: 0.018275805}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: Torus01
+  m_CompressedRotationCurves: []
+  m_PositionCurves: []
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 120.079414
+        outSlope: 120.079414
+        tangentMode: 0
+      - time: 0.06666667
+        value: 8.005295
+        inSlope: 120.04082
+        outSlope: 120.04082
+        tangentMode: 0
+      - time: 1.6666666
+        value: 200.00882
+        inSlope: 119.9978
+        outSlope: 119.9978
+        tangentMode: 0
+      - time: 3
+        value: 360
+        inSlope: 119.993385
+        outSlope: 119.993385
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalEulerAnglesHint.z
+    path: Torus01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalEulerAnglesHint.y
+    path: Torus01
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 0.06666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 1.6666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      - time: 3
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    attribute: m_LocalEulerAnglesHint.x
+    path: Torus01
+    classID: 4
+    script: {fileID: 0}
+  m_SampleRate: 30
+  m_WrapMode: 2
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

@@ -1,0 +1,17 @@
+public enum UILayer
+{
+	NONE = 0,
+	MENU = 1,
+	THESTASH = 2,
+	OPTIONS = 3,
+	AVATAR = 4,
+	UPGRADES = 5,
+	ITEMS = 6,
+	PROFILE = 7,
+	INGAME = 8,
+	PAUSE = 9,
+	GAMEOVER = 10,
+	TBANK = 11,
+	HOWTO = 12,
+	CREDITS = 13
+}

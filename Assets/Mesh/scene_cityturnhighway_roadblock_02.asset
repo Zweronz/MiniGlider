@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!43 &4300000
+Mesh:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: scene_cityturnhighway_roadblock_02
+  m_SubMeshes:
+  - firstByte: 0
+    indexCount: 10
+    isTriStrip: 2
+    triangleCount: 4
+    firstVertex: 0
+    vertexCount: 8
+    localAABB:
+      m_Center: {x: 0, y: -4.7683716E-07, z: 0}
+      m_Extent: {x: 0.37218475, y: 7.4498506, z: 0.073384285}
+  m_MeshCompression: 0
+  m_IndexBuffer: 0300010005000400040000000000020006000700
+  m_Skin: []
+  m_BindPose: []
+  m_VertexData:
+    m_CurrentChannels: 63
+    m_VertexCount: 8
+    m_Streams[0]:
+      channelMask: 63
+      offset: 0
+      stride: 60
+      align: 16
+    m_Streams[1]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[2]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_Streams[3]:
+      channelMask: 0
+      offset: 0
+      stride: 0
+      align: 16
+    m_DataSize: 480
+    _typelessdata: 008fbe3e2a65eec0804a96bdbcd3bb3e00000000d8266e3fffffffff4f9f8c3a26bedc3e8b18743f5f781a3f3c0e143afdff7f3ff88969b9000080bf008fbebe2e65eec0009ace3c256c03be0000000003e27d3fffffffffb76d883af970b73ecb7e773f5f781a3f11ac853af7ff7f3f08640a39000080bf008dbe3e2c65ee40804a96bdbdd3bb3e00000000d7266e3fffffffff1f72bc3e0f53dc3e6618743f69cb5b3fda9b853af6ff7f3f3fc0d2b9000080bf008fbebe2c65ee40009ace3c256c03be0000000003e27d3fffffffffed6dbc3eea05b73ea67e773f69cb5b3f353d143afdff7f3fcf789938000080bf000000b72e65eec0804a963d256c03be0000000003e27d3fffffffffdb738a3a2145ca3e96d9753f5f781a3fdd484d3afbff7f3ff787d438000080bf000000b72c65ee40804a963d256c03be0000000003e27d3fffffffff1770bc3eee7ec93e6ed9753f69cb5b3f843b493afbff7f3fff55d038000080bf000000b72e65eec0804a963dbcd3bb3e00000000d8266e3fffffffffdb738a3a2145ca3e96d9753f5f781a3f0bfa393afbff7f3f68ad92b9000080bf000000b72c65ee40804a963dbdd3bb3e00000000d8266e3fffffffff1770bc3eee7ec93e6ed9753f69cb5b3f2cfe443afbff7f3f9b5d9bb9000080bf
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_BindPoses:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data:
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+    m_Colors:
+      m_NumItems: 0
+      m_Data:
+      m_BitSize: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: -4.7683716E-07, z: 0}
+    m_Extent: {x: 0.37218475, y: 7.4498506, z: 0.073384285}
+  m_MeshUsageFlags: 0
+  m_MeshOptimized: 1

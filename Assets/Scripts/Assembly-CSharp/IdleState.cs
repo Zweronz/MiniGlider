@@ -1,0 +1,11 @@
+public enum IdleState
+{
+	STORY = 0,
+	NORMAL = 1,
+	STAND = 2,
+	SHOTING = 3,
+	SHOT_FLYING = 4,
+	FLYING = 5,
+	GAMEOVER = 6,
+	GAMEOVERCALLBACK = 7
+}

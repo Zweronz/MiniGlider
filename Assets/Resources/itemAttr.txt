@@ -1,0 +1,117 @@
+ <root>
+  <item type="item_zombies1" inshop="0">
+    <attr level="0" name="" picname="" price="" dir="" strength="" length="0" value="" info=""/>
+  </item>
+  <item type="Zombie_Nurse" inshop="0">
+    <attr level="0" name="" picname="" price="" dir="" strength="" length="0" value="" info=""/>
+  </item> 
+  <item type="Zombie_Swat" inshop="0">
+    <attr level="0" name="" picname="" price="" dir="" strength="" length="0" value="" info=""/>
+  </item> 
+  <equip type="equip_rocket" inshop="1">
+	  <attr level="0" name="Bottle Rocket" picname="equip_rocket1" price="500" info="Perfect for adrenaline \njunkies with the need \nfor speed." value="2" />
+	  <attr level="1" name="Bottle Rocket" picname="equip_rocket1" price="500" info="Perfect for adrenaline \njunkies with the need \nfor speed." value="2" />
+	  <attr level="2" name="Air Tank" picname="equip_rocket2" price="1000" info="Perfect for adrenaline \njunkies with the need \nfor speed." value="3" />
+	  <attr level="3" name="PARTY ROCKET" picname="equip_rocket3" price="3000" info="Perfect for adrenaline \njunkies with the need \nfor speed." value="4" />
+	  <attr level="4" name="JET ENGINE" picname="equip_rocket4" price="6500" info="Perfect for adrenaline \njunkies with the need \nfor speed." value="5" />
+	  <attr level="5" name="Rocket" picname="equip_rocket5" price="15000" info="Perfect for adrenaline \njunkies with the need \nfor speed." value="6" />
+  </equip>
+  <equip type="equip_glider" inshop="1">
+	  <attr level="0" name="BANANA LEAVES" picname="equip_glide1" price="500" info="Just what you need \nto slow things down \nand enjoy the view." value="15" />
+	  <attr level="1" name="BANANA LEAVES" picname="equip_glide1" price="500" info="Just what you need \nto slow things down \nand enjoy the view." value="10" />
+	  <attr level="2" name="CARDBOARD GLIDER" picname="equip_glide2" price="1000" info="Just what you need \nto slow things down \nand enjoy the view." value="15" />
+	  <attr level="3" name="JUNIOR GLIDER" picname="equip_glide3" price="3000" info="Just what you need \nto slow things down \nand enjoy the view." value="25" />
+	  <attr level="4" name="Hang Glider" picname="equip_glide4" price="6500" info="Just what you need \nto slow things down \nand enjoy the view." value="35" />
+	  <attr level="5" name="Wings" picname="equip_glide5" price="15000" info="Just what you need \nto slow things down \nand enjoy the view." value="45" />
+  </equip>
+  <equip type="equip_dangong1" inshop="1">
+	  <attr level="0" name="Slingshot" picname="equip_dangong1" price="0" info="This homemade slingshot \nis your last hope!" value="20" />
+	  <attr level="1" name="Slingshot" picname="equip_dangong1" price="500" info="This homemade slingshot \nis your last hope!" value="27" />
+	  <attr level="2" name="Slingshot" picname="equip_dangong1" price="1000" info="This homemade slingshot \nis your last hope!" value="34" />
+	  <attr level="3" name="Slingshot" picname="equip_dangong1" price="3000" info="This homemade slingshot \nis your last hope!" value="41" />
+	  <attr level="4" name="Slingshot" picname="equip_dangong1" price="6500" info="This homemade slingshot \nis your last hope!" value="48" />
+	  <attr level="5" name="Slingshot" picname="equip_dangong1" price="15000" info="This homemade slingshot \nis your last hope!" value="55" />
+  </equip>
+  <item type="item_bomb1" inshop="1">
+	  <attr level="0" name="Bomb" picname="item_bomb1" price="0" dir="65" strength="" length="30" value="" info="Just what you need to \nblast your way out of the dirt \nand back into the \nsky.  Upgrade to increase \nexplosion strength." />
+	  <attr level="1" name="Bomb" picname="item_bomb1" price="1000" dir="65" strength="" length="40" value="" info="Just what you need to \nblast your way out of the \ndirt and back into the sky.  \nUpgrade to increase \nexplosion strength." />
+	  <attr level="2" name="Bomb" picname="item_bomb1" price="3000" dir="65" strength="" length="50" value="" info="Just what you need to \nblast your way out of the \ndirt and back into the sky.  \nUpgrade to increase \nexplosion strength." />
+	  <attr level="3" name="Bomb" picname="item_bomb1" price="6500" dir="65" strength="" length="60" value="" info="Just what you need to \nblast your way out of the \ndirt and back into the sky.  \nUpgrade to increase \nexplosion strength." />
+	  <attr level="4" name="Bomb" picname="item_bomb1" price="12000" dir="65" strength="" length="70" value="" info="Just what you need to \nblast your way out of the \ndirt and back into the sky.  \nUpgrade to increase \nexplosion strength." />
+	  <attr level="5" name="Bomb" picname="item_bomb1" price="26000" dir="65" strength="" length="80" value="" info="Just what you need to \nblast your way out of the \ndirt and back into the sky.  \nUpgrade to increase \nexplosion strength." />
+  </item>
+  <item type="item_bomb2" inshop="1">
+    <attr level="0" name="missile" picname="item_bomb2" price="0" dir="45" strength="" length="35" value="" info="This dangerous, high tech \nordinance just might blast \nyou on a wild ride! \nUpgrade to increase \nexplosion strength." />
+    <attr level="1" name="missile" picname="item_bomb2" price="1000" dir="45" strength="" length="45" value="" info="This dangerous, high tech \nordinance just might blast \nyou on a wild ride! Upgrade \nto increase explosion \nstrength." />
+    <attr level="2" name="missile" picname="item_bomb2" price="3000" dir="45" strength="" length="55" value="" info="This dangerous, high tech \nordinance just might blast \nyou on a wild ride! Upgrade \nto increase explosion \nstrength." />
+    <attr level="3" name="missile" picname="item_bomb2" price="6500" dir="45" strength="" length="65" value="" info="This dangerous, high tech \nordinance just might blast \nyou on a wild ride! Upgrade \nto increase explosion \nstrength." />
+    <attr level="4" name="missile" picname="item_bomb2" price="12000" dir="45" strength="" length="75" value="" info="This dangerous, high tech \nordinance just might blast \nyou on a wild ride! Upgrade \nto increase explosion \nstrength." />
+    <attr level="5" name="missile" picname="item_bomb2" price="26000" dir="45" strength="" length="85" value="" info="This dangerous, high tech \nordinance just might blast \nyou on a wild ride! Upgrade \nto increase explosion \nstrength." />
+  </item>
+  <item type="item_gold" inshop="0">
+    <attr level="0" name="Gold Multiplier" picname="item_gold" price="0" dir="" strength="" length="" value="1" info="Money, everyone likes \nmoney." />
+  </item>
+  <item type="item_gold2" inshop="0">
+	  <attr level="0" name="Gold Multiplier" picname="item_gold" price="0" dir="" strength="" length="" value="10" info="Money, everyone likes \nmoney." />
+  </item>
+  <item type="item_gold3" inshop="0">
+	  <attr level="0" name="Gold Multiplier" picname="item_gold" price="0" dir="" strength="" length="" value="10" info="Money, everyone likes \nmoney." />
+  </item>
+  <item type="item_bed" inshop="1">
+    <attr level="0" name="Bed" picname="item_bed" price="0" dir="" strength="1.2" length="0" value="" info="Beds are fun to jump on \nfor a reason. They're \nbouncy. Upgrade to \nincrease bounce factor." />
+    <attr level="1" name="Bed" picname="item_bed" price="1000" dir="" strength="1.27" length="0" value="" info="Beds are fun to jump on \nfor a reason. They're \nbouncy. Upgrade to \nincrease bounce factor." />
+    <attr level="2" name="Bed" picname="item_bed" price="3000" dir="" strength="1.34" length="0" value="" info="Beds are fun to jump on \nfor a reason. They're \nbouncy. Upgrade to \nincrease bounce factor." />
+    <attr level="3" name="Bed" picname="item_bed" price="6500" dir="" strength="1.41" length="0" value="" info="Beds are fun to jump on \nfor a reason. They're \nbouncy. Upgrade to \nincrease bounce factor." />
+    <attr level="4" name="Bed" picname="item_bed" price="12000" dir="" strength="1.48" length="0" value="" info="Beds are fun to jump on \nfor a reason. They're \nbouncy. Upgrade to \nincrease bounce factor." />
+    <attr level="5" name="Bed" picname="item_bed" price="26000" dir="" strength="1.55" length="0" value="" info="Beds are fun to jump on \nfor a reason. They're \nbouncy. Upgrade to \nincrease bounce factor." />
+  </item>
+  <item type="item_wagon" inshop="1">
+    <attr level="0" name="Police Car" picname="item_wagon" price="0" dir="" strength="1.05" length="0" value="" info="With the police zombified, \nthere's no one to stop you \nfrom using their cars as \nspringboards. Upgrade to \nincrease bounce factor." />
+    <attr level="1" name="Police Car" picname="item_wagon" price="1000" dir="" strength="1.1" length="0" value="" info="With the police zombified, \nthere's no one to stop you \nfrom using their cars as \nspringboards. Upgrade to \nincrease bounce factor." />
+    <attr level="2" name="Police Car" picname="item_wagon" price="3000" dir="" strength="1.15" length="0" value="" info="With the police zombified, \nthere's no one to stop you \nfrom using their cars as \nspringboards. Upgrade to \nincrease bounce factor." />
+    <attr level="3" name="Police Car" picname="item_wagon" price="6500" dir="" strength="1.2" length="0" value="" info="With the police zombified, \nthere's no one to stop you \nfrom using their cars as \nspringboards. Upgrade to \nincrease bounce factor." />
+    <attr level="4" name="Police Car" picname="item_wagon" price="12000" dir="" strength="1.25" length="0" value="" info="With the police zombified, \nthere's no one to stop you \nfrom using their cars as \nspringboards. Upgrade to \nincrease bounce factor." />
+    <attr level="5" name="Police Car" picname="item_wagon" price="26000" dir="" strength="1.3" length="0" value="" info="With the police zombified, \nthere's no one to stop you \nfrom using their cars as \nspringboards. Upgrade to \nincrease bounce factor." />
+  </item>
+  <item type="item_trampoline" inshop="1">
+    <attr level="0" name="Trampoline" picname="item_trampoline" price="0" dir="" strength="1.4" length="0" value="" info="This military grade tool \nwill bounce you to new \nheights. Upgrade to \nincrease bounce factor." />
+    <attr level="1" name="Trampoline" picname="item_trampoline" price="1000" dir="" strength="1.5" length="0" value="" info="This military grade tool \nwill bounce you to new \nheights. Upgrade to \nincrease bounce factor." />
+    <attr level="2" name="Trampoline" picname="item_trampoline" price="3000" dir="" strength="1.6" length="0" value="" info="This military grade tool \nwill bounce you to new \nheights. Upgrade to \nincrease bounce factor." />
+    <attr level="3" name="Trampoline" picname="item_trampoline" price="6500" dir="" strength="1.7" length="0" value="" info="This military grade tool \nwill bounce you to new \nheights. Upgrade to \nincrease bounce factor." />
+    <attr level="4" name="Trampoline" picname="item_trampoline" price="12000" dir="" strength="1.8" length="0" value="" info="This military grade tool \nwill bounce you to new \nheights. Upgrade to \nincrease bounce factor." />
+    <attr level="5" name="Trampoline" picname="item_trampoline" price="26000" dir="" strength="1.9" length="0" value="" info="This military grade tool \nwill bounce you to new \nheights. Upgrade to \nincrease bounce factor." />
+  </item>
+  <item type="item_fireballoon" inshop="0">
+    <attr level="0" name="Hot Air Balloon" picname="item_fireballoon" price="0" dir="" strength="0.8" length="0" value="" info="All that hot air makes \nthis balloon frighteningly \nvolatile." />
+  </item>
+  <item type="item_airliner" inshop="0">
+    <attr level="0" name="Plane" picname="item_airliner" price="0" dir="65" strength="" length="37" value="" info="If you fly high enough, \nwatch out for passing \nplanes." />
+    <attr level="1" name="Plane" picname="item_airliner" price="1000" dir="65" strength="" length="40" value="" info="If you fly high enough, \nwatch out for passing \nplanes." />
+    <attr level="2" name="Plane" picname="item_airliner" price="3000" dir="65" strength="" length="43" value="" info="If you fly high enough, \nwatch out for passing \nplanes." />
+    <attr level="3" name="Plane" picname="item_airliner" price="6500" dir="65" strength="" length="46" value="" info="If you fly high enough, \nwatch out for passing \nplanes." />
+    <attr level="4" name="Plane" picname="item_airliner" price="12000" dir="65" strength="" length="49" value="" info="If you fly high enough, \nwatch out for passing \nplanes." />
+    <attr level="5" name="Plane" picname="item_airliner" price="26000" dir="65" strength="" length="52" value="" info="If you fly high enough, \nwatch out for passing \nplanes." />
+  </item>
+  <item type="item_ufo" inshop="1">
+    <attr level="0" name="UFO" picname="item_ufo" price="0" dir="60" strength="" length="" value="5" info="Count yourself lucky if \nyou ever fly high enough \nto have a close encounter \nof the third kind." />
+    <attr level="1" name="UFO" picname="item_ufo" price="1000" dir="60" strength="" length="" value="6" info="Count yourself lucky if \nyou ever fly high enough \nto have a close encounter \nof the third kind." />
+    <attr level="2" name="UFO" picname="item_ufo" price="3000" dir="60" strength="" length="" value="7" info="Count yourself lucky if \nyou ever fly high enough \nto have a close encounter \nof the third kind." />
+    <attr level="3" name="UFO" picname="item_ufo" price="6500" dir="60" strength="" length="" value="8" info="Count yourself lucky if \nyou ever fly high enough \nto have a close encounter \nof the third kind." />
+    <attr level="4" name="UFO" picname="item_ufo" price="12000" dir="60" strength="" length="" value="9" info="Count yourself lucky if \nyou ever fly high enough \nto have a close encounter \nof the third kind." />
+    <attr level="5" name="UFO" picname="item_ufo" price="26000" dir="60" strength="" length="" value="10" info="Count yourself lucky if \nyou ever fly high enough \nto have a close encounter \nof the third kind." />  
+</item>
+  <item type="item_landmine" inshop="1">
+    <attr level="0" name="Land Mine" picname="item_landmine" price="0" dir="65" strength="" length="25" value="" info="Explodes on impact, \nlaunching you on a wild \nride. Upgrade to increase \nexplosion strength." />
+    <attr level="1" name="Land Mine" picname="item_landmine" price="1000" dir="65" strength="" length="32" value="" info="Explodes on impact, \nlaunching you on a wild \nride. Upgrade to increase \nexplosion strength." />
+    <attr level="2" name="Land Mine" picname="item_landmine" price="3000" dir="65" strength="" length="39" value="" info="Explodes on impact, \nlaunching you on a wild \nride. Upgrade to increase \nexplosion strength." />
+    <attr level="3" name="Land Mine" picname="item_landmine" price="6500" dir="65" strength="" length="46" value="" info="Explodes on impact, \nlaunching you on a wild \nride. Upgrade to increase \nexplosion strength." />
+    <attr level="4" name="Land Mine" picname="item_landmine" price="12000" dir="65" strength="" length="53" value="" info="Explodes on impact, \nlaunching you on a wild \nride. Upgrade to increase \nexplosion strength." />
+    <attr level="5" name="Land Mine" picname="item_landmine" price="26000" dir="65" strength="" length="60" value="" info="Explodes on impact, \nlaunching you on a wild \nride. Upgrade to increase \nexplosion strength." />
+  </item>
+  <item type="item_balloon" inshop="0">
+    <attr level="0" name="balloon" dir="" strength="" length="50" value="" />
+  </item>
+  <item type="item_recruit1" inshop="0">
+    <attr level="0" name="item_recruit1" dir="" strength="" length="50" value="" />
+  </item>
+</root>

@@ -1,0 +1,510 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1328899570337974}
+  m_IsPrefabParent: 1
+--- !u!1 &1328899570337974
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4515666119944224}
+  - component: {fileID: 114191957206326100}
+  m_Layer: 0
+  m_Name: tcceb_18_img
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4515666119944224
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1328899570337974}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1230.0435, y: 1143.3811, z: -190.2334}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114191957206326100
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1328899570337974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6602bfffab7e92a49ba6397654502441, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fontName: TCCEB_18_img
+  fontPath: Font
+  fontInfo:
+    textureFile: Font/TCCEB_18_img
+    lineHeight: 15
+    chars:
+    - ch: ' '
+      size: {x: 9, y: 15}
+      uv: {x: 0.00390625, y: 0.9375, z: 0.021484375, w: 0.46875}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: 0
+      size: {x: 11, y: 15}
+      uv: {x: 0.02734375, y: 0.9375, z: 0.048828125, w: 0.46875}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: 1
+      size: {x: 7, y: 14}
+      uv: {x: 0.0546875, y: 0.9375, z: 0.068359375, w: 0.5}
+      bearingX: 0
+      advanceX: 7
+      descentY: 0
+    - ch: 2
+      size: {x: 10, y: 15}
+      uv: {x: 0.07421875, y: 0.9375, z: 0.09375, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 3
+      size: {x: 10, y: 15}
+      uv: {x: 0.099609375, y: 0.9375, z: 0.119140625, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 4
+      size: {x: 10, y: 14}
+      uv: {x: 0.125, y: 0.9375, z: 0.14453125, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 5
+      size: {x: 9, y: 15}
+      uv: {x: 0.15039062, y: 0.9375, z: 0.16796875, w: 0.46875}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: 6
+      size: {x: 10, y: 15}
+      uv: {x: 0.17382812, y: 0.9375, z: 0.19335938, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 7
+      size: {x: 10, y: 14}
+      uv: {x: 0.19921875, y: 0.9375, z: 0.21875, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 8
+      size: {x: 10, y: 15}
+      uv: {x: 0.22460938, y: 0.9375, z: 0.24414062, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 9
+      size: {x: 10, y: 15}
+      uv: {x: 0.25, y: 0.9375, z: 0.26953125, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: A
+      size: {x: 12, y: 15}
+      uv: {x: 0.27539062, y: 0.9375, z: 0.29882812, w: 0.46875}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: B
+      size: {x: 10, y: 15}
+      uv: {x: 0.3046875, y: 0.9375, z: 0.32421875, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: C
+      size: {x: 9, y: 15}
+      uv: {x: 0.33007812, y: 0.9375, z: 0.34765625, w: 0.46875}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: D
+      size: {x: 10, y: 15}
+      uv: {x: 0.35351562, y: 0.9375, z: 0.37304688, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: E
+      size: {x: 8, y: 15}
+      uv: {x: 0.37890625, y: 0.9375, z: 0.39453125, w: 0.46875}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: F
+      size: {x: 8, y: 15}
+      uv: {x: 0.40039062, y: 0.9375, z: 0.41601562, w: 0.46875}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: G
+      size: {x: 12, y: 15}
+      uv: {x: 0.421875, y: 0.9375, z: 0.4453125, w: 0.46875}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: H
+      size: {x: 11, y: 15}
+      uv: {x: 0.45117188, y: 0.9375, z: 0.47265625, w: 0.46875}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: I
+      size: {x: 5, y: 15}
+      uv: {x: 0.47851562, y: 0.9375, z: 0.48828125, w: 0.46875}
+      bearingX: 0
+      advanceX: 5
+      descentY: 0
+    - ch: J
+      size: {x: 8, y: 15}
+      uv: {x: 0.49414062, y: 0.9375, z: 0.5097656, w: 0.46875}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: K
+      size: {x: 11, y: 15}
+      uv: {x: 0.515625, y: 0.9375, z: 0.5371094, w: 0.46875}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: L
+      size: {x: 8, y: 15}
+      uv: {x: 0.54296875, y: 0.9375, z: 0.55859375, w: 0.46875}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: M
+      size: {x: 15, y: 15}
+      uv: {x: 0.5644531, y: 0.9375, z: 0.59375, w: 0.46875}
+      bearingX: 0
+      advanceX: 15
+      descentY: 0
+    - ch: N
+      size: {x: 11, y: 15}
+      uv: {x: 0.5996094, y: 0.9375, z: 0.62109375, w: 0.46875}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: O
+      size: {x: 11, y: 15}
+      uv: {x: 0.6269531, y: 0.9375, z: 0.6484375, w: 0.46875}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: P
+      size: {x: 10, y: 15}
+      uv: {x: 0.6542969, y: 0.9375, z: 0.6738281, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: Q
+      size: {x: 12, y: 15}
+      uv: {x: 0.6796875, y: 0.9375, z: 0.703125, w: 0.46875}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: R
+      size: {x: 10, y: 15}
+      uv: {x: 0.7089844, y: 0.9375, z: 0.7285156, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: S
+      size: {x: 9, y: 15}
+      uv: {x: 0.734375, y: 0.9375, z: 0.7519531, w: 0.46875}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: T
+      size: {x: 9, y: 14}
+      uv: {x: 0.7578125, y: 0.9375, z: 0.7753906, w: 0.5}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: U
+      size: {x: 10, y: 15}
+      uv: {x: 0.78125, y: 0.9375, z: 0.80078125, w: 0.46875}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: V
+      size: {x: 12, y: 14}
+      uv: {x: 0.8066406, y: 0.9375, z: 0.8300781, w: 0.5}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: W
+      size: {x: 16, y: 14}
+      uv: {x: 0.8359375, y: 0.9375, z: 0.8671875, w: 0.5}
+      bearingX: 0
+      advanceX: 16
+      descentY: 0
+    - ch: X
+      size: {x: 11, y: 14}
+      uv: {x: 0.8730469, y: 0.9375, z: 0.89453125, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: Y
+      size: {x: 12, y: 14}
+      uv: {x: 0.9003906, y: 0.9375, z: 0.9238281, w: 0.5}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: Z
+      size: {x: 11, y: 14}
+      uv: {x: 0.9296875, y: 0.9375, z: 0.9511719, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+  fontInfoHD:
+    textureFile: Font/TCCEB_18_img@2x
+    lineHeight: 15
+    chars:
+    - ch: ' '
+      size: {x: 9, y: 15}
+      uv: {x: 0.001953125, y: 0.96875, z: 0.01953125, w: 0.5}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: 0
+      size: {x: 11, y: 15}
+      uv: {x: 0.022460938, y: 0.96875, z: 0.043945312, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: 1
+      size: {x: 7, y: 14}
+      uv: {x: 0.046875, y: 0.96875, z: 0.060546875, w: 0.53125}
+      bearingX: 0
+      advanceX: 7
+      descentY: 0
+    - ch: 2
+      size: {x: 10, y: 15}
+      uv: {x: 0.06347656, y: 0.96875, z: 0.08300781, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 3
+      size: {x: 10, y: 15}
+      uv: {x: 0.0859375, y: 0.96875, z: 0.10546875, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 4
+      size: {x: 10, y: 14}
+      uv: {x: 0.10839844, y: 0.96875, z: 0.12792969, w: 0.53125}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 5
+      size: {x: 9, y: 15}
+      uv: {x: 0.13085938, y: 0.96875, z: 0.1484375, w: 0.5}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: 6
+      size: {x: 10, y: 15}
+      uv: {x: 0.15136719, y: 0.96875, z: 0.17089844, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 7
+      size: {x: 10, y: 14}
+      uv: {x: 0.17382812, y: 0.96875, z: 0.19335938, w: 0.53125}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 8
+      size: {x: 10, y: 15}
+      uv: {x: 0.19628906, y: 0.96875, z: 0.21582031, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: 9
+      size: {x: 10, y: 15}
+      uv: {x: 0.21875, y: 0.96875, z: 0.23828125, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: A
+      size: {x: 12, y: 15}
+      uv: {x: 0.24121094, y: 0.96875, z: 0.26464844, w: 0.5}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: B
+      size: {x: 10, y: 15}
+      uv: {x: 0.26757812, y: 0.96875, z: 0.28710938, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: C
+      size: {x: 9, y: 15}
+      uv: {x: 0.29003906, y: 0.96875, z: 0.3076172, w: 0.5}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: D
+      size: {x: 10, y: 15}
+      uv: {x: 0.31054688, y: 0.96875, z: 0.33007812, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: E
+      size: {x: 8, y: 15}
+      uv: {x: 0.3330078, y: 0.96875, z: 0.3486328, w: 0.5}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: F
+      size: {x: 8, y: 15}
+      uv: {x: 0.3515625, y: 0.96875, z: 0.3671875, w: 0.5}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: G
+      size: {x: 12, y: 15}
+      uv: {x: 0.3701172, y: 0.96875, z: 0.3935547, w: 0.5}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: H
+      size: {x: 11, y: 15}
+      uv: {x: 0.39648438, y: 0.96875, z: 0.41796875, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: I
+      size: {x: 5, y: 15}
+      uv: {x: 0.42089844, y: 0.96875, z: 0.43066406, w: 0.5}
+      bearingX: 0
+      advanceX: 5
+      descentY: 0
+    - ch: J
+      size: {x: 8, y: 15}
+      uv: {x: 0.43359375, y: 0.96875, z: 0.44921875, w: 0.5}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: K
+      size: {x: 11, y: 15}
+      uv: {x: 0.45214844, y: 0.96875, z: 0.4736328, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: L
+      size: {x: 8, y: 15}
+      uv: {x: 0.4765625, y: 0.96875, z: 0.4921875, w: 0.5}
+      bearingX: 0
+      advanceX: 8
+      descentY: 0
+    - ch: M
+      size: {x: 15, y: 15}
+      uv: {x: 0.4951172, y: 0.96875, z: 0.52441406, w: 0.5}
+      bearingX: 0
+      advanceX: 15
+      descentY: 0
+    - ch: N
+      size: {x: 11, y: 15}
+      uv: {x: 0.52734375, y: 0.96875, z: 0.5488281, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: O
+      size: {x: 11, y: 15}
+      uv: {x: 0.5517578, y: 0.96875, z: 0.5732422, w: 0.5}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: P
+      size: {x: 10, y: 15}
+      uv: {x: 0.5761719, y: 0.96875, z: 0.5957031, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: Q
+      size: {x: 12, y: 15}
+      uv: {x: 0.5986328, y: 0.96875, z: 0.6220703, w: 0.5}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: R
+      size: {x: 10, y: 15}
+      uv: {x: 0.625, y: 0.96875, z: 0.64453125, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: S
+      size: {x: 9, y: 15}
+      uv: {x: 0.64746094, y: 0.96875, z: 0.66503906, w: 0.5}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: T
+      size: {x: 9, y: 14}
+      uv: {x: 0.66796875, y: 0.96875, z: 0.6855469, w: 0.53125}
+      bearingX: 0
+      advanceX: 9
+      descentY: 0
+    - ch: U
+      size: {x: 10, y: 15}
+      uv: {x: 0.68847656, y: 0.96875, z: 0.7080078, w: 0.5}
+      bearingX: 0
+      advanceX: 10
+      descentY: 0
+    - ch: V
+      size: {x: 12, y: 14}
+      uv: {x: 0.7109375, y: 0.96875, z: 0.734375, w: 0.53125}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: W
+      size: {x: 16, y: 14}
+      uv: {x: 0.7373047, y: 0.96875, z: 0.7685547, w: 0.53125}
+      bearingX: 0
+      advanceX: 16
+      descentY: 0
+    - ch: X
+      size: {x: 11, y: 14}
+      uv: {x: 0.7714844, y: 0.96875, z: 0.79296875, w: 0.53125}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+    - ch: Y
+      size: {x: 12, y: 14}
+      uv: {x: 0.79589844, y: 0.96875, z: 0.81933594, w: 0.53125}
+      bearingX: 0
+      advanceX: 12
+      descentY: 0
+    - ch: Z
+      size: {x: 11, y: 14}
+      uv: {x: 0.8222656, y: 0.96875, z: 0.84375, w: 0.53125}
+      bearingX: 0
+      advanceX: 11
+      descentY: 0
+  material: {fileID: 2100000, guid: 45ac0414ff746394bb3fd4e8a0de6c48, type: 2}
+  path: _Outer/Font/TCCEB_18
+  hd: 1

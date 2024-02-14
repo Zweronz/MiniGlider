@@ -1,0 +1,30 @@
+<root>
+  <ground>
+    <point type="item_gold" x="7.33614" y="100.6135" z="0" />
+    <point type="item_gold" x="8.592282" y="100.6507" z="0" />
+    <point type="item_gold" x="7.38614" y="99.32883" z="0" />
+    <point type="item_gold" x="8.615276" y="99.34883" z="0" />
+  </ground>
+  <ground>
+    <point type="item_gold" x="7.226137" y="99.26878" z="0" />
+    <point type="item_gold" x="8.824049" y="99.2529" z="0" />
+    <point type="item_gold" x="7.999959" y="100.9411" z="0" />
+  </ground>
+  <ground>
+    <point type="item_gold" x="7.613671" y="100.023" z="0" />
+    <point type="item_gold" x="8.369016" y="100.0514" z="0" />
+    <point type="item_gold" x="6.866856" y="100.0214" z="0" />
+  </ground>
+  <ground>
+    <point type="item_gold" x="7.999959" y="99.23167" z="0" />
+    <point type="item_gold" x="7.948462" y="100.8799" z="0" />
+    <point type="item_gold" x="7.150144" y="99.97843" z="0" />
+    <point type="item_gold" x="8.927218" y="100.0043" z="0" />
+    <point type="item_gold" x="8" y="100" z="0" />
+  </ground>
+  <ground>
+    <point type="item_gold" x="6.995636" y="100.7253" z="0" />
+    <point type="item_gold" x="9.005841" y="99.30296" z="0" />
+    <point type="item_gold" x="8" y="100" z="0" />
+  </ground>
+</root>

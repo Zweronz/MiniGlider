@@ -1,0 +1,24 @@
+public enum ItemType
+{
+	NONE = 0,
+	GUANGHUAN = 1,
+	TANHUANGCHUANG = 2,
+	YANGSAN = 3,
+	ZHADAN = 4,
+	DAODAN = 5,
+	GOLD = 6,
+	STAR = 7,
+	ZOMBIES1 = 8,
+	GOLD2 = 9,
+	GOLD3 = 10,
+	CLOUD = 11,
+	BED = 12,
+	WAGON = 13,
+	TRAMPOLINE = 14,
+	CLOACA = 15,
+	FIREBALLOON = 16,
+	BIRD1 = 17,
+	AIRLINER = 18,
+	UFO = 19,
+	LANDMINE = 20
+}
