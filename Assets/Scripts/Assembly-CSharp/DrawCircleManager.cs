@@ -129,6 +129,7 @@ public class DrawCircleManager : MonoBehaviour
 
 	private void SetProgressMesh()
 	{
+		_Mesh.Clear();
 		if (_Buffer.Count > 0)
 		{
 			Vector3[] array = new Vector3[_Size * 4];

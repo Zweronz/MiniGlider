@@ -51,155 +51,155 @@ public class GameCenterPlugin
 
 	public static void Initialize()
 	{
-		if (!Application.isEditor)
-		{
-			GMInitialize();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	GMInitialize();
+		//}
 	}
 
 	public static void Uninitialize()
 	{
-		if (!Application.isEditor)
-		{
-			GMUninitialize();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	GMUninitialize();
+		//}
 	}
 
 	public static bool IsSupported()
 	{
 		bool result = true;
-		if (!Application.isEditor)
-		{
-			result = GMIsSupported();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMIsSupported();
+		//}
 		return result;
 	}
 
 	public static bool IsLogin()
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMIsLogin();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMIsLogin();
+		//}
 		return result;
 	}
 
 	public static bool Login()
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMLogin();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMLogin();
+		//}
 		return result;
 	}
 
 	public static int LoginStatus()
 	{
 		int result = 0;
-		if (!Application.isEditor)
-		{
-			result = GMLoginStatus();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMLoginStatus();
+		//}
 		return result;
 	}
 
 	public static string GetAccount()
 	{
 		string result = string.Empty;
-		if (!Application.isEditor)
-		{
-			StringBuilder stringBuilder = new StringBuilder(1024);
-			if (GMGetAccount(stringBuilder))
-			{
-				result = stringBuilder.ToString();
-			}
-		}
+		//if (!Application.isEditor)
+		//{
+		//	StringBuilder stringBuilder = new StringBuilder(1024);
+		//	if (GMGetAccount(stringBuilder))
+		//	{
+		//		result = stringBuilder.ToString();
+		//	}
+		//}
 		return result;
 	}
 
 	public static string GetName()
 	{
 		string result = string.Empty;
-		if (!Application.isEditor)
-		{
-			StringBuilder stringBuilder = new StringBuilder(1024);
-			if (GMGetName(stringBuilder))
-			{
-				result = stringBuilder.ToString();
-			}
-		}
+		//if (!Application.isEditor)
+		//{
+		//	StringBuilder stringBuilder = new StringBuilder(1024);
+		//	if (GMGetName(stringBuilder))
+		//	{
+		//		result = stringBuilder.ToString();
+		//	}
+		//}
 		return result;
 	}
 
 	public static bool SubmitScore(string category, int score)
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMSubmitScore(category, score);
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMSubmitScore(category, score);
+		//}
 		return result;
 	}
 
 	public static int SubmitScoreStatus(string category, int score)
 	{
 		int result = 0;
-		if (!Application.isEditor)
-		{
-			result = GMSubmitScoreStatus(category, score);
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMSubmitScoreStatus(category, score);
+		//}
 		return result;
 	}
 
 	public static bool SubmitAchievement(string category, int percent)
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMSubmitAchievement(category, percent);
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMSubmitAchievement(category, percent);
+		//}
 		return result;
 	}
 
 	public static int SubmitAchievementStatus(string category, int percent)
 	{
 		int result = 0;
-		if (!Application.isEditor)
-		{
-			result = GMSubmitAchievementStatus(category, percent);
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMSubmitAchievementStatus(category, percent);
+		//}
 		return result;
 	}
 
 	public static bool OpenLeaderboard()
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMOpenLeaderboard();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMOpenLeaderboard();
+		//}
 		return result;
 	}
 
 	public static bool OpenLeaderboard(string category)
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMOpenLeaderboardForCategory(category);
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMOpenLeaderboardForCategory(category);
+		//}
 		return result;
 	}
 
 	public static bool OpenAchievement()
 	{
 		bool result = false;
-		if (!Application.isEditor)
-		{
-			result = GMOpenAchievement();
-		}
+		//if (!Application.isEditor)
+		//{
+		//	result = GMOpenAchievement();
+		//}
 		return result;
 	}
 }

@@ -52,5 +52,7 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
-    }
+    },
+    "dotnet.preferCSharpExtension": true,
+    "dotnet.defaultSolution": "MiniGlider.sln"
 }
