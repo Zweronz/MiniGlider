@@ -123,10 +123,10 @@ public class Utils
 
 	public static bool IsIpad()
 	{
-		if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPad1Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPad2Gen)
-		{
-			return true;
-		}
+		//if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPad1Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPad2Gen)
+		//{
+		//	return true;
+		//}
 		return false;
 	}
 
@@ -150,10 +150,10 @@ public class Utils
 
 	public static bool IsRetina()
 	{
-		if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone4 || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch4Gen)
-		{
-			return true;
-		}
+		//if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone4 || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch4Gen)
+		//{
+		//	return true;
+		//}
 		return false;
 	}
 

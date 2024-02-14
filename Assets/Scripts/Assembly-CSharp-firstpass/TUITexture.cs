@@ -89,10 +89,10 @@ public class TUITexture : MonoBehaviour
 
 	private bool HD()
 	{
-		if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3G || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3GS || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch1Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch2Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch3Gen)
-		{
-			return false;
-		}
+		//if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3G || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3GS || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch1Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch2Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch3Gen)
+		//{
+		//	return false;
+		//}
 		return true;
 	}
 }

@@ -11,18 +11,18 @@ public class MiniGliderLocalNotification : MonoBehaviour
 
 	public bool Add(string alterAction, string alterBody, DateTime fireDate)
 	{
-		UnityEngine.iOS.LocalNotification localNotification = new UnityEngine.iOS.LocalNotification();
-		localNotification.alertBody = alterBody;
-		localNotification.fireDate = fireDate;
-		UnityEngine.iOS.NotificationServices.ScheduleLocalNotification(localNotification);
-		Debug.Log("Add local notification, fire date: " + fireDate);
+		//UnityEngine.iOS.LocalNotification localNotification = new UnityEngine.iOS.LocalNotification();
+		//localNotification.alertBody = alterBody;
+		//localNotification.fireDate = fireDate;
+		//UnityEngine.iOS.NotificationServices.ScheduleLocalNotification(localNotification);
+		//Debug.Log("Add local notification, fire date: " + fireDate);
 		return true;
 	}
 
 	public void Clear()
 	{
-		UnityEngine.iOS.NotificationServices.ClearLocalNotifications();
-		UnityEngine.iOS.NotificationServices.CancelAllLocalNotifications();
+		//UnityEngine.iOS.NotificationServices.ClearLocalNotifications();
+		//UnityEngine.iOS.NotificationServices.CancelAllLocalNotifications();
 	}
 
 	private void Awake()

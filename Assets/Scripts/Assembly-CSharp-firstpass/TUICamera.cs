@@ -31,26 +31,26 @@ public class TUICamera : MonoBehaviour
 
 	private void GetScreenInfo(out float width, out float height, out bool hd)
 	{
-		width = 0f;
-		height = 0f;
-		hd = false;
-		if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3G || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3GS || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch1Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch2Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch3Gen)
-		{
-			width = 320f;
-			height = 480f;
-			hd = false;
-		}
-		else if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone4 || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch4Gen)
-		{
-			width = 640f;
-			height = 960f;
-			hd = true;
-		}
-		else
-		{
+		//width = 0f;
+		//height = 0f;
+		//hd = false;
+		//if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3G || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone3GS || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch1Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch2Gen || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch3Gen)
+		//{
+		//	width = 320f;
+		//	height = 480f;
+		//	hd = false;
+		//}
+		//else if (UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPhone4 || UnityEngine.iOS.Device.generation == UnityEngine.iOS.DeviceGeneration.iPodTouch4Gen)
+		//{
+		//	width = 640f;
+		//	height = 960f;
+		//	hd = true;
+		//}
+		//else
+		//{
 			width = 768f;
 			height = 1024f;
 			hd = true;
-		}
+		//}
 	}
 }
